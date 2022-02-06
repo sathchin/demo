@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sathishreddychinni/Projects/gitprojects/demo/testgit/testgit.csproj": {}
+    "/Users/sathishreddychinni/Projects/testgit/testgit/testgit.csproj": {}
   },
   "projects": {
-    "/Users/sathishreddychinni/Projects/gitprojects/demo/testgit/testgit.csproj": {
+    "/Users/sathishreddychinni/Projects/testgit/testgit/testgit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sathishreddychinni/Projects/gitprojects/demo/testgit/testgit.csproj",
+        "projectUniqueName": "/Users/sathishreddychinni/Projects/testgit/testgit/testgit.csproj",
         "projectName": "testgit",
-        "projectPath": "/Users/sathishreddychinni/Projects/gitprojects/demo/testgit/testgit.csproj",
+        "projectPath": "/Users/sathishreddychinni/Projects/testgit/testgit/testgit.csproj",
         "packagesPath": "/Users/sathishreddychinni/.nuget/packages/",
-        "outputPath": "/Users/sathishreddychinni/Projects/gitprojects/demo/testgit/obj/",
+        "outputPath": "/Users/sathishreddychinni/Projects/testgit/testgit/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
